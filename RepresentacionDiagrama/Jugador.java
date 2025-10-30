@@ -1,3 +1,4 @@
+package RepresentacionDiagrama;
 public class Jugador extends Persona {
     private int numFed;
 

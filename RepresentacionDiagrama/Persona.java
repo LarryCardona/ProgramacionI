@@ -1,3 +1,5 @@
+package RepresentacionDiagrama;
+
 public class Persona {
     private String nombre;
     private String nif;
